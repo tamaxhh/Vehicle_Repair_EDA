@@ -50,7 +50,7 @@ To run the `Assessment_EDA.ipynb` notebook:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone # Vehicle Repair Data - Exploratory Data Analysis
+    git clone https://github.com/tamaxhh/Vehicle_Repair_EDA.git
 
 This repository contains an Exploratory Data Analysis (EDA) of a vehicle repair dataset. The analysis aims to uncover significant patterns, assess data quality, and derive actionable insights related to vehicle maintenance and common repair issues.
 
@@ -103,7 +103,7 @@ To run the `Assessment_EDA.ipynb` notebook:
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/tamaxhh/Vehicle_Repair_EDA.git
-    cd https://github.com/tamaxhh/Vehicle_Repair_EDA.git
+    cd Vehicle_Repair_EDA
     ```
 2.  **Install Dependencies:** Ensure you have Python and Jupyter installed. You might need to install specific libraries:
     ```bash
