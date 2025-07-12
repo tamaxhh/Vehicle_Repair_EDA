@@ -64,16 +64,6 @@ This project delves into a dataset detailing various aspects of vehicle repairs,
 * To extract key themes and insights from unstructured text data (customer complaints and repair descriptions) using text analysis techniques.
 * To provide actionable recommendations based on the analytical findings.
 
-## Data Source
-
-The analysis was performed on a dataset containing 100 entries across 52 columns. Key columns include:
-* `VIN`: Unique Vehicle Identification Number.
-* `TRANSACTION_ID`: Unique identifier for each repair transaction.
-* `CUSTOMER_VERBATIM` & `CORRECTION_VERBATIM`: Unstructured text describing customer complaints and repair actions.
-* `CAUSAL_PART_NM`: The part identified as the cause of the issue.
-* `GLOBAL_LABOR_CODE_DESCRIPTION`: Description of the labor performed.
-* `TOTALCOST`: The total cost associated with the repair.
-* `PLATFORM`: Vehicle platform details.
 
 ## Key Findings & Insights
 
